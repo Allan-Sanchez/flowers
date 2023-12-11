@@ -1322,7 +1322,7 @@ body {
 }
 
 .night::after {
-  content: 'Faviola Ramirez';
+  content: 'Faviola Ramírez';
   font-size: 6em; /* Ajusta el tamaño según sea necesario */
   color: rgba(255, 255, 255, 0.8)!important; /* Color blanco con baja opacidad */
   position: absolute;
